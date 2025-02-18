@@ -27,7 +27,7 @@
 ---
 
 <div id="langs" align="center">
-	<h2>Languages and Tools</h2>
+	<h3>Languages and Tools</h3>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="60" height="60"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="django" width="60" height="60"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="60" height="60"/>
@@ -37,7 +37,7 @@
 ---
 
 <div id="stat" align="center">
-	<h2>My statistic</h2>
+	<h3>My statistic</h3>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1ESSSKY&theme=github_dark">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B1ESSSKY&theme=github_dark">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=B1ESSSKY&theme=github_dark">
