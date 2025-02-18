@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NhcGJzdGYzNmQ3bW96Nzg4cDlzOGRnam9zNG9hem0wazg5djhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/800iiDTaNNFOwytONV/giphy.gif" width="400"/>
 </div>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Егор Дубков
+Hi! My name is Egor Dubkov
 ===================================================================================================================================
 
 * ✉️  You can contact me at [egordubckov@yandex.ru](mailto:egordubckov@yandex.ru)
